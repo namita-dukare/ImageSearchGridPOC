@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PicFinder</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_Comment">Comment...</string>
+    <string name="str_empty_field">This field is required</string>
+    <string name="str_empty_comment">No comments. Enter your first comment</string>
+    <string name="str_empty_images">No images found</string>
+    <string name="str_err">Something went wrong please try again</string>
+</resources>
